@@ -1,7 +1,7 @@
 {
   "name": "react-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a template for react-redux projects",
   "main": "index.js",
   "babel": {
     "presets": [
